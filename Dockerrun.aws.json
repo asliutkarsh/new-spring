@@ -3,7 +3,7 @@
   "containerDefinitions": [
     {
       "name": "new-spring-api",
-      "image": "asliutkarsh/new-spring-api",
+      "image": "asliutkarsh/new-spring-api:latest",
       "essential": true,
       "memory": 512,
       "portMappings": [
